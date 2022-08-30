@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="assets/join-slack-team.png">](https://communityinviter.com/apps/thebetafactory/beta-factory)
+[<img align="right" width="150" src="assets/join-slack-team.png">](https://communityinviter.com/apps/thebetafactory/beta-factory-slack)
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache%202-blue)](https://opensource.org/licenses/Apache-2.0)
 [![Open Source Helpers](https://www.codetriage.com/betafactory/firstcontribution/badges/users.svg)](https://www.codetriage.com/betafactory/firstcontribution)
 
@@ -104,4 +104,5 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://communityinviter.com/apps/thebetafactory/beta-factory).
+You could join our slack team in case you need any help or have any questions. [Join slack 
+team](https://communityinviter.com/apps/thebetafactory/beta-factory-slack).
