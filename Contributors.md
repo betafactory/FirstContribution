@@ -6,3 +6,4 @@
 - [Calvin D'souza](https://github.com/kalzen15)
 - venkatesh
 - [chandan kumar](https://github.com/chandan4eu)
+- [Sugyani Manjari Dash](https://github.com/Sugyani31)
