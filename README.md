@@ -104,5 +104,5 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-You could join our slack team in case you need any help or have any questions. [Join slack 
+You could join our slack team in case you need any help or have any questions [Join slack 
 team](https://communityinviter.com/apps/thebetafactory/beta-factory-slack).
